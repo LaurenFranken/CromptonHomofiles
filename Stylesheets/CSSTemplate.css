@@ -10,6 +10,28 @@ text-indent:35px;
 
 }
 
+p.right {
+text-align: right;
+font-family: garamond;
+font-size: 16px;
+color: black;
+margin-right:150px;
+margin-left:150px;
+text-indent:35px;
+
+}
+
+p.closer {
+text-align: left;
+font-family: garamond;
+font-size: 16px;
+color: black;
+margin-right:150px;
+margin-left:150px;
+text-indent:100px;
+
+}
+
 p.uninterrupted {
 font-family: garamond;
 font-size: 16px;
