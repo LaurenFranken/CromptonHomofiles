@@ -1,0 +1,102 @@
+
+p {
+text-align: left;
+font-family: garamond;
+font-size: 16px;
+color: black;
+margin-right:150px;
+margin-left:150px;
+text-indent:35px;
+
+}
+
+
+h1 {
+font-family: garamond;
+font-size: 20px;
+margin-right:100px;
+margin-left:100px;
+color: black;
+text-decoration:underline;
+text-align:center;
+}
+
+
+p.note /* name of your class here */ {
+color: rgb(255,36,0);  
+line-height: 1.5;
+margin-right:100px;
+margin-left:100px;
+}
+
+
+div.notes /* name of your class here */ {
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;   
+}
+
+
+body /* if you want the background for the whole page, you should use the "body" selector */ {
+background-color: white;
+padding-top:50px;
+padding-right:40px;
+padding-left:40px;
+padding-bottom:50px; 
+    
+}
+
+span.label
+{
+font-weight: bold;
+font-size: 18px;
+margin-left:100px;
+
+
+}
+
+a:link
+{
+   color: steelblue;
+}
+a:hover {
+color:purple;}
+
+/* THE FOLLOWING DOES NOT WORK--NEED XSLT HELP */
+* {
+  box-sizing: border-box;
+}
+
+/* Style the side navigation */
+.sidenav {
+  height: 100%;
+  width: 200px;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #111;
+  overflow-x: hidden;
+}
+/* Side navigation links */
+.sidenav a {
+  color: white;
+  padding: 16px;
+  text-decoration: none;
+  display: block;
+}
+
+/* Change color on hover */
+.sidenav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+/* Style the content */
+.content {
+  margin-left: 200px;
+  padding-left: 20px;
+}
+
+
