@@ -92,7 +92,11 @@
        
    </xsl:template>
     
-    
+     <xsl:template match="tei:div2">
+    <div2>
+            <xsl:apply-templates/>
+        </div2>
+   </xsl:template>
     
     
     
