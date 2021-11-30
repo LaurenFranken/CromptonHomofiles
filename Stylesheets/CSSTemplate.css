@@ -10,6 +10,13 @@ text-indent:35px;
 
 }
 
+br {
+  text-align: left;
+  margin-right:150px;
+margin-left:150px;
+  
+}
+
 
 h1 {
 font-family: garamond;
