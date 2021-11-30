@@ -39,7 +39,7 @@ font-size: 16px;
 color: black;
 margin-right:150px;
 margin-left:150px;
-text-indent:400px;
+text-indent:500px;
 
 }
 
@@ -101,7 +101,7 @@ div.notes /* name of your class here */ {
 
 
 body /* if you want the background for the whole page, you should use the "body" selector */ {
-background-color: white;
+background-color: #FBEFF2;
 padding-top:50px;
 padding-right:40px;
 padding-left:40px;
