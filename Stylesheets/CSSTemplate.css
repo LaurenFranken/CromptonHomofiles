@@ -2,13 +2,16 @@ blockquote {
 display: block;
   margin-left: 300px;
   margin-right: 300px;
+  font-family: Courier New;
+  color: black;
+  font-size: 16px;
   text-indent:35px;
 
 }
 
 p {
 text-align: left;
-font-family: Courier New
+font-family: Courier New;
 font-size: 16px;
 color: black;
 margin-right:150px;
@@ -19,7 +22,7 @@ text-indent:35px;
 
 p.right {
 text-align: right;
-font-family: garamond;
+font-family: Courier New;
 font-size: 16px;
 color: black;
 text-decoration: underline;
@@ -31,7 +34,7 @@ text-indent:35px;
 
 p.closer {
 text-align: left;
-font-family: garamond;
+font-family: Courier New;
 font-size: 16px;
 color: black;
 margin-right:150px;
@@ -41,7 +44,7 @@ text-indent:400px;
 }
 
 p.uninterrupted {
-font-family: garamond;
+font-family: Garamond;
 font-size: 16px;
 color: black;
 margin-right:150px;
