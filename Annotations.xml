@@ -1,0 +1,429 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Statement by Professor Louis Crompton for the University Archives on
+               the introduction of the controversial Proseminar in Homophile Studies at the
+               University of Nebraska at Lincoln in the fall of 1970</title>
+            <author>Louis Crompton</author>
+            <editor role="co-editor">Lauren Franken</editor>
+            <editor role="co-editor">Jamison Wyatt</editor>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Louis Crompton: The Selected Homofiles</authority>
+            <idno><!-- BLANK FOR NOW --></idno>
+            <date>2021</date>
+            <availability>
+               <p>Louis Crompton: The Selected Homofiles is freely distributed by the University of
+                  Nebraska-Lincoln Archives &amp; Special Collections and licensed under a Creative
+                  Commons Attribution-Noncommercial-Share Alike 3.0 United States License</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <note>This file is composed of annotations written for Louis Crompton: The Selected
+                  Homofiles</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>Encoded for Louis Crompton: The Selected Homofiles</p>
+         </editorialDecl>
+         <projectDesc>
+            <p><hi rend="italics">Louis Crompton: The Selected Homofiles</hi> presents a series of
+               Louis Crompton's papers, which frame the events that occured at the University of
+               Nebraska-Lincoln in 1970 surrounding his organization of the course "Proseminar in
+               Homophile Studies," one of the earliest courses on queer sexuality taught in the
+               United States. Furthermore, the political fallout which occurred after Crompton
+               developed the course bears striking similarities to 21st century politicians'
+               attempts to control academic curricula. </p>
+         </projectDesc>
+      </encodingDesc>
+   </teiHeader>
+
+   <text>
+      <body>
+
+         <head>Biographical Annotations</head>
+
+         <note type="person" xml:id="jamesCole">
+            <label>Cole, Dr. James Kimbrough (1935&#8211;2010) ("Jim").Profesor, psychology
+               department, University of Nebraska&#8211;Lincoln.</label><p> Born in Asheville, NC,
+               Cole graduated from Mars Hill College in Mars Hill, NC, in 1955 and received both an
+               MA and a PhD from the University of Kentucky in 1962 and 1965 respectively. In 1964,
+               he joined the faculty of the University of Nebraska, where he led and shaped the
+               Clinical Psychology Training Program, and retired in 1997. Cole received two
+               University of Nebraska&#8211;Lincoln recognitions for his work with and defense of
+               the 1970 Proseminar on Homophile Studies, including the 1989 James A. Lake Award for
+               Academic Freedom and the 2010 Award for Outstanding Contributions to the Gay,
+               Lesbian, Bisexual, and Transgender Community.</p></note>
+
+         <note type="person" xml:id="garnetLarson"><label>Larson, Garnet Ireva (1904&#8211;1998).
+               Professor, School of Social Work, University of Nebraska&#8211;Lincoln.</label>
+            <p> Born in Franklin County, NE, Larson received a BS in education and an MA in English
+               from the University of Nebraska in 1929 and 1930 respectively. In 1935, she received
+               a PhD in English from the University of Kansas and thereafter taught English at
+               Chadron State Teachers College in Chadron, NE, until 1944. In 1946, Larson received
+               an MA in social work from the University of Pittsburgh and worked for the Division of
+               Research and Statistics for the North Dakota Public Welfare Board from 1946 to 1949.
+               In 1949, she joined the faculty of the School of Social Work at the University of
+               Nebraska and retired in 1973.</p></note>
+
+         <note type="person" xml:id="terryCarpenter"><label>Carpenter, Terry McGovern
+               (1900&#8211;1978) ("Terrible Terry"). State senator, Nebraska Legislature,
+               1953&#8211;1955, 1957&#8211;1961, 1963&#8211;1974.</label>
+            <p> Born in Cedar Rapids, IA, Carpenter moved to Scottsbluff, NE, in 1916 where he
+               worked for various railroad and coal businesses. In 1932, voters of Nebraska's 5th
+               Congressional District elected him as a Democrat to the US House of Representatives.
+               He served only one term, frequently praising Adolf Hitler on the Congressional
+               Record. After unsuccessful campaigns for both the US Senate and the Governor of
+               Nebraska, Carpenter started various business interests in Scottsbluff, including a
+               gasoline refinery. In 1952, he successfully won election to the Nebraska Legislature
+               and served intermittently until 1974 as both a Democrat and a Republican, though the
+               Nebraska Legislature is officially nonpartisan. In 1978, after Carpenter died, the
+               Nebraska Legislature passed Legislative Bill 955, which renamed the Nebraska
+               Educational Telecommunications Building the Terry M. Carpenter Educational
+               Telecommunications Building. </p></note>
+
+         <note type="person" xml:id="adolfHitler"><label>Hitler, Adolf (1889&#8211;1945).
+               Chancellor/Führer, Germany, 1933&#8211;1945.</label>
+            <p> </p></note>
+
+         <note type="person" xml:id="franklinRoosevelt"><label>Roosevelt, Franklin Delano
+               (1882&#8211;1945) ("FDR"). President, United States, 1933&#8211;1945.</label>
+            <p> </p></note>
+
+         <note type="person" xml:id="benjaminGreenberg"><label>Greenberg, Dr. Benjamin Norton
+               (1903&#8211;1988). ("Ben"). Regent, University of Nebraska, 1953&#8211;1971.</label>
+            <p> Born in Omaha, NE, Norton received a BA from the University of Nebraska in 1925 and
+               an MD from the University of Nebraska College of Medicine in 1928. By 1935, he moved
+               to York, NE, where he practiced medicine, specializing in the eye, ear, and throat,
+               until his retirement in 1988. From 1953 to 1971, Greenberg served on the University
+               of Nebraska Board of Regents. </p></note>
+
+         <note type="person" xml:id="haroldSimpson"><label>Simpson, Harold Dwaine (1926&#8211;2001).
+               State senator, Nebraska Legislature, 1967&#8211;1976.</label>
+            <p> Born in Harlan, IA, Simpson actively served in the Army Air Corps from 1945 to 1947
+               and was stationed at the Lincoln Army Airfield in Lincoln, NE, by the end of his
+               service. He remained in Lincoln and began a career working for the Gooch Milling
+               #x0026; Elevator Company. From 1967 to 1976, Simpson served in the Nebraska
+               Legislature, and from 1977 to 1989, he served on the Nebraska Public Service
+               Commission. </p></note>
+
+         <note type="person" xml:id="johnMcBride"><label>McBride, John G. (1926&#8211;2008)
+               ("Jack"). Founder, Nebraska Educational Television.</label>
+            <p> Born in Omaha, NE, McBride received a BA from Creighton University in Omaha, NE, in
+               1948 and an MA from Northwestern University in Evanston, IL, in 1949. In 1953, the
+               University of Nebraska hired McBride as director of television and general manager of
+               KUON-TV, Nebraska's nascent public broadcasting network. He served in this role until
+               1996, overseeing the development of Nebraska Educational Television in 1963. McBride
+               influenced the architectural design of the Nebraska Educational Telecommunications
+               Building, funding for which state Senator Terry Carpenter secured through Legislative
+               Bill 65 in 1969. In 1971, during the building's construction on the east campus of
+               the University of Nebraska&#8211;Lincoln, Carpenter threatened to repurpose the
+               building for use by the university's College of Law through Legislative Resolution
+               55; however, his motion failed 6&#8211;28 on April 30, 1971. The building
+               subsequently opened in 1972, and in 1978, the Nebraska Legislature passed Legislative
+               Bill 955, which renamed it the Terry M. Carpenter Educational Telecommunications
+               Building. In 2011, the Nebraska Legislature passed Legislative Bill 122, which once
+               again renamed it the Terry M. Carpenter and Jack G. McBride Educational
+               Telecommunications Building. </p></note>
+
+         <note type="person" xml:id="durwardVarner"><label>Varner, Durward Belmont (1917&#8211;1999)
+               ("Woody"). Chancellor/president, University of Nebraska.</label>
+            <p> Born in Cottonwood, TX, Varner received a BS in agricultural economics from the
+               Agricultural and Mechanical College of Texas in College Station, TX, in 1940 and an
+               MA in agricultural economics from the University of Chicago in 1949. Throughout the
+               1940s and the 1950s, he served in various professorial and administrative roles at
+               Michigan State University in East Lansing, MI, and in 1959, he became the inaugural
+               chancellor of Michigan State University&#8211;Oakland in Rochester Hills, MI. In
+               1968, the University of Nebraska reorganized into three separate institutions: the
+               University of Nebraska&#8211;Lincoln, the flagship institution; the University of
+               Nebraska Medical Center, the former University of Nebraska College of Medicine; and
+               the University of Nebraska at Omaha, the former University of Omaha. At the time the
+               leader of the university system was known as chancellor and the administrative
+               leaders of each institution were known as presidents. In 1970, Varner became the
+               second chancellor of the system, a title which was altered to president the following
+               year. He thereafter served as president of the University of Nebraska until 1976 at
+               which point in time he became president of the University of Nebraska Foundation.
+            </p></note>
+
+         <note type="person" xml:id="robertOsborne"><label>Osborne, Dr. Robert George
+               (1931&#8211;2012) ("Bob"). Psychiatrist; deputy director of medical services,
+               Nebraska Department of Public Institutions.</label>
+            <p> Born in Fargo, ND, Osborne graduated from the University of Nebraska College of
+               Medicine in 1956 and completed his residency at the Nebraska Psychiatric Institute in
+               Omaha, NE. From 1957 to 1959, he actively served in the US Navy. In 1962, he began
+               work at the Norfolk State Hospital in Norfolk, NE, becoming its clinical director in
+               1964. In 1967, Governor Norbert Tiemann named Osborne the deputy director for medical
+               services of the Nebraska Department of Public Institutions, and served in that role
+               until 1972 when he became the director of the Lincoln Regional Center in Lincoln, NE.
+            </p></note>
+
+         <note type="person" xml:id="jamesKruger"><label>Kruger, Col. James E. (1915&#8211;1979).
+               Superintendent, Nebraska State Patrol.</label>
+            <p> Born in Sterling, NE, Kruger entered the Nebraska State Patrol in 1940, serving as
+               deputy superintendent from 1962 to 1967 and as superintendent from 1967 to when he
+               retired in 1973. </p></note>
+
+         <note type="person" xml:id="edwardSchwartzkopf"><label>Schwartzkopf, Edward
+               (1919&#8211;2006) ("Ed"). Regent, University of Nebraska, 1967&#8211;1985.</label>
+            <p> Born in Lincoln, NE, Schwartzkopf enrolled at the University of Nebraska in 1938
+               where he became a football star and played as starting guard for the 1941 Rose Bowl
+               team. From 1941 to 1945, Schwartzkopf actively served in the US Army. In 1948, he
+               graduated with a BS in education and went on to have a thirty-four-year career as a
+               teacher and administrator with Lincoln Public Schools. From 1967 to 1985,
+               Schwartzkopf served on the University of Nebraska Board of Regents. </p></note>
+
+         <note type="person" xml:id="lawrenceDoerr"><label>Doerr, Rev. Lawrence Emil
+               (1931&#8211;2000) ("Larry"). Presbyterian minister.</label>
+            <p> Born in Minneapolis, MN, Doerr received a BA in history from Macalester College in
+               St. Paul, MN, in 1953 and an MDiv in theology and history from Union Theological
+               Seminary in New York, NY, in 1956. As an ordained Presybeterian minister, Doerr
+               pastored a parish in southern Minnesota for four years before he entered United
+               Campus Christian Fellowship, a campus ministries organization at the University of
+               Minnesota in 1960. In 1970, he moved to Lincoln, NE, where he became the director of
+               United Ministries in Higher Education, a campus ministries organization at the
+               University of Nebraska&#8211;Lincoln, and he immediately began supporting students
+               involved in both Vietnam War and gay rights protests. Doerr served as director until
+               his retirement in 1996. </p></note>
+
+         <note type="person" xml:id="williamDobler"><label>Dobler, William O. (1926&#8211;2011)
+               ("Bill"). Newspaper editor.</label>
+            <p> Born in St. Joseph, MO, Dobler moved to Lincoln, NE, with his wife Nancy in 1948
+               where he enrolled at the University of Nebraska and began studying journalism. The
+               following year he began reporting part-time for The Lincoln Star, joining the
+               newspaper staff permanently after graduating from the university with a certificate
+               in journalism in 1950. By 1952, Dobler became the city hall reporter, and in 1957, he
+               became the editorial editor and served in varying editorial positions until his
+               retirement in 1989. </p></note>
+
+         <note type="person" xml:id="merkHobson"><label>Hobson, Merk. (1921&#8211;1977). Vice
+               chancellor/chancellor, University of Nebraska&#8211;Lincoln.</label>
+            <p> Born in Little Norway, WI, Hobson received a BS from the University of Wisconsin and
+               advanced degrees from Northwestern University. In 1950, he joined the University of
+               Nebraska faculty as an assistant professor of chemical engineering. He was named dean
+               of the College of Engineering and Architecture in 1957 at only 33 years old, making
+               him one of the youngest deans in university history. Hobson was appointed vice
+               chancellor for research and dean of the Graduate College in 1965, and in 1966 became
+               the vice chancellor and dean of faculties. He served as University of
+               Nebraska&#8211;Lincoln chancellor from 1969 to 1970. Hobson retired from the
+               university in 1974, returned to Little Norway and operated a family business.
+            </p></note>
+
+         <note type="person" xml:id="warrenCaldwell"><label>Caldwell, Warren W. (1925&#8211;).
+               Chairman, anthropology department, University of Nebraska&#8211;Lincoln. </label>
+            <p> Born in Davenport, IA, Caldwell received degrees from San Mateo California Junior
+               College, Stanford, and Washington University. He joined the University of Nebraska
+               faculty in 1960 in a part-time position until 1969 when he was appointed chairman of
+               the Department of Anthropology. Caldwell also served as the curator of Anthropology
+               at the University of Nebraska State Museum. </p></note>
+
+         <note type="person" xml:id="philipCrowl"><label>Crowl, Philip A. (1914&#8211;1991).
+               Chairman, history department, University of Nebraska&#8211;Lincoln. </label>
+            <p> Born in Dayton, OH, Crowl received degrees from Swarthmore College, Yale University
+               Law School, University of Iowa, and Johns Hopkins University. From 1941 to 1942 he
+               taught history at Princeton University but left academia to serve in the United
+               States Navy from 1942 to 1945. He returned to Princeton until 1949, when he left to
+               serve as a civilian historian for the Office of the Chief of Military History of the
+               United States Army in Washington D.C where he remained until 1957. From 1957 to 1967
+               he served as an intelligence officer for the United States Department of State. He
+               returned to academia as a professor of history and chair of the department of history
+               at the University of Nebraska from 1967 to 1973. </p></note>
+
+         <note type="person" xml:id="norbertTiemann"><label>Tiemann, Norbert (1924&#8211;2012)
+               ("Nobby"). Governor, State of Nebraska, 1967&#8211;1971.</label>
+            <p/></note>
+
+         <note type="person" xml:id="richardNixon"><label>Nixon, Richard (1913&#8211;1994) ("Dick").
+               President, United States, 1969&#8211;1974.</label>
+            <p/></note>
+
+         <note type="person" xml:id="dwightEisenhower"><label>Eisenhower, Dwight David
+               (1890&#8211;1969) ("Ike"). President, United States, 1953&#8211;1961.</label>
+            <p/></note>
+
+         <note type="person" xml:id="charlesHaywood"><label>Haywood, Charles (1950&#8211;2000)
+               (“Chuck”). Director, University of Nebraska&#8211;Lincoln Psychological
+               Clinic.</label>
+            <p> Born in Brooklyn, NY, Haywood received a BA from Fordham University and a doctorate
+               in clinical psychology from the University at Texas at Austin. Haywood was a clinical
+               psychology professor at the University of Nebraska before moving to Buffalo, NY to
+               serve as the executive director of Crisis Services of Buffalo. From 1986 to 1998,
+               Haywood served as a psychologist for the state of New York as well as for the
+               Department of Veteran Affairs. He consulted people and families in crisis on
+               intervention techniques as well as volunteering as a counselor of AIDS
+            patients.</p></note>
+
+         <note type="person" xml:id="henryPedersen"><label>Pedersen, Henry F., Jr. (1930&#8211;)
+               State senator, Nebraska Legislature, 1965&#8211;1971.</label>
+            <p> Born in Omaha, NE, Pedersen received a BS in law from the University of Nebraska and
+               a JD from Creighton University in Omaha, NE, in 1951 and 1953 respectively. From 1962
+               to 1964, he served as the chairman of the Republican Party in Douglas County,
+               Nebraska, and from 1965 to 1971, he served in the Nebraska Legislature. In 1970,
+               Pedersen unsuccessfully ran for lieutenant governor of Nebraska, and in 1973, he
+               moved to Estes Park, CO.</p></note>
+
+         <note type="person" xml:id="louisMartin"><label>Martin, Dr. Louis Chapman
+               (1928&#8211;2007). Psychiatrist, University Student Health Center, University of
+               Nebraska&#8211;Lincoln.</label>
+            <p>Born in Omaha, NE, Martin received a BA and an MA in classical languages both from
+               St. Louis University in St. Louis, MO, in 1952 and 1954 respectively. He also
+               received an MS in physiology from Creighton University School of Medicine and an MD
+               from the University of Nebraska College of Medicine in 1960 and 1962 respectively. By
+               1968, Martin was director of mental health services at the University Student Health
+               Center, and in 1973, he moved to Hastings, NE, to direct the Hastings Regional
+               Center. He resigned a few months later and moved to Omaha where he taught at
+               Creighton University and worked for the Douglas County Hospital. In 1985, he accepted
+               a position at the Lincoln Regional Center in Lincoln, NE, and he practiced psychiatry
+               there until 2007 when he was killed by a patient.</p></note>
+
+         <note type="person" xml:id="robertProkop"><label>Prokop, Dr. Robert J. (1934&#8211;2020).
+               Regent, University of Nebraska, 1971&#8211;1983.</label>
+            <p>Born in Wilber, NE, Prokop received a BS in chemistry and mathematics, an MS in
+               chemistry, and a PhD in philosophy from the University of Nebraska in 1956, 1958, and
+               1963 respectively. In 1966, he received an MD from the University of Nebraska College
+               of Medicine and went on to practice medicine for thirty-five years. On March 11,
+               1970, Prokop filed his candidacy for the University of Nebraska Board of Regents and
+               defeated incumbent Dr. Benjamin Norton Greenberg in the November election. He served
+               until 1983.</p></note>
+
+         <note type="person" xml:id="williamBurrows"><label>Burrows, William G. (unknown).
+               Professor, Nebraska Psychiatric Institute.</label>
+            <p>Burrows was a professor of psychiatry and an associate director of the Nebraska
+               Psychiatric Institute from 1969 to 1973. The institute was a teaching, research, and
+               intensive treatment hospital and was headquartered at the University of Nebraska
+               Medical Center in Omaha, NE.</p></note>
+
+         <note type="person" xml:id="benjaminMcCashland"><label>McCashland, Dr. Benjamin W.
+               (1921&#8211;2001). Assistant Dean, Graduate College, University of
+               Nebraska&#8211;Lincoln. </label>
+            <p>Born in Geneva, NE, McCashland received a BS, a MS, and a PhD from the University of
+               Nebraska In 1947, 1948, and 1955 respectively. Upon completion of his doctoral work,
+               he continued teaching at the university as assistant professor of physiology until
+               1965 when he became the assistant dean of the Graduate College. McCashland resigned
+               on August 31, 1970 and moved to Moorhead, MN, where he became the dean of graduate
+               studies at Moorhead State University. He retired in 1983.</p></note>
+
+         <note type="person" xml:id="davidMcIntosh"><label>McIntosh, David Patrick
+               (1950&#8211;1989). Gay activist; university student.</label>
+            <p>Born in Philadelphia, PA, McIntosh attended Creighton Preparatory School in Omaha,
+               NE, and enrolled at the University of Nebraska&#8211;Lincoln in 1969 in the College
+               of Arts and Sciences. In October 1970, he and Joseph Dean Creason co-founded the
+               Lincoln Gay Action Group (LINGAG), which held meetings and public forums at the
+               United Ministries in Higher Education at 333 North 14th Street. LINGAG's original
+               mission was "to study the problems of human sexuality as they relate to both women
+               and men and to provide information about these problems to the people of Lincoln
+               [Nebraska]." In May 1972, McIntosh attended George McGovern's town hall meeting in
+               Lincoln where he asked the presidential nominee, "What is your position on gay
+               rights?" McGovern was dumbfounded. After graduating from the university in 1973,
+               McIntosh worked with The Play Group, an alternative theater company in Knoxville, TN,
+               and in 1979, he moved to New York, NY, where wrote and worked both in the theater and
+               at the New York City Gay and Lesbian Center where he designed an ornamental garden.
+               He died from complications of AIDS in 1989. His papers are housed in the rare
+               manuscripts collection at Cornell University in Ithaca, NY.</p></note>
+
+         <note type="person" xml:id="keithPrichard"><label>Prichard, Keith W. (1929&#8211;2016).
+               Professor, Teachers College, University of Nebraska&#8211;Lincoln.</label>
+            <p>Born in Putnam County, IN, Prichard received a BS in education from Indiana
+               University in 1952. He later received an MA from Columbia University and a PhD from
+               Harvard University in 1961 respectively. From 1961 to 1967, he taught as an associate
+               professor of history and philosophy of education at Wake Forest in Winston-Salem, NC.
+               In 1967, Prichard became an associate professor in the Teachers College at the
+               University of Nebraska. In 1970, university students honored him as professor of the
+               year. Prichard retired in 1995.</p></note>
+
+         <note type="person" xml:id="wallaceRudolph"><label>Rudolph, Wallace M. (1930&#8211;2017).
+               Professor, College of Law, University of Nebraska&#8211;Lincoln</label>
+            <p>Born in Chicago, IL, Rudolph received a BA and a JD from the University of Chicago in
+               1950 and 1953 respectively. From 1957 to 1958, he instructed at the University of
+               Chicago Law School, and in 1963, he joined the faculty at the University of Nebraska
+               College of Law. In 1976, Rudolph moved to Tacoma, WA, and joined the Puget Sound Law
+               School (now Seattle University Law School), serving as dean until 1980 and as
+               teaching faculty until 1996. In 1997, Rudolph moved to Orlando, FL, to serve as the
+               dean of the University of Orlando Law School (now Dwayne O. Andreas School of Law)
+               but was fired fourteen months later in part due to his failure to secure
+               accreditation for the school.</p></note>
+
+         <note type="person" xml:id="peterMagrath"><label>Magrath, Peter C. (1933&#8211;) Dean of
+               Faculties, University of Nebraska&#8211;Lincoln.</label>
+            <p>Born in New York, NY, Magrath received a BA from the University of New Hampshire and
+               a PhD at Cornell University. He began his career in higher education in 1967 at Brown
+               University, where he served as a professor of political science and later the
+               associate dean of graduate school. Magrath served as the dean of faculties for the
+               University of Nebraska&#8211;Lincoln from 1969 to 1972. Magrath went on to serve as
+               president of the State University of New York at Binghamton (1972&#8211;74); the
+               University of Minnesota (1974&#8211;84) and the University of Missouri System
+               (1985&#8211;91). In 1992, Magrath assumed the presidency of the National Association
+               of State Universities and Land-Grant Colleges, a position which he held until 2005.
+               In 2006, Magrath became the Senior Advisor to the College Board, and in 2007, he was
+               elected to a three-year term on the Board of Directors of the American Association of
+               Community Colleges.</p></note>
+
+         <note type="person" xml:id="valLeinieks"><label>Leinieks, Val (1932&#8211;2019). Professor,
+               chair, classics department, University of Nebraska&#8211;Lincoln.</label>
+            <p>Born in Liepaja, Latvia, Leinieks moved to the United States in 1949. He received a
+               BA and MA from Cornell University in 1955 and 1956 respectively and a PhD from
+               Princeton University in 1962. He began his career in academia as an assistant
+               professor of classics at Cornell College in Mt. Vernon, IA, and in 1964, he became an
+               associate professor at Ohio State University. In 1966, Leinieks moved to Lincoln, NE,
+               where he served as a professor and the chair of the classics department until his
+               retirement in 1983.</p></note>
+
+         <note type="person" xml:id="prestonHolder"><label>Holder, Preston (1907&#8211;1980).
+               Professor, anthropology department, University of Nebraska&#8211;Lincoln.</label>
+            <p>Born in Wabash, IN, Holder enrolled at the University of Nebraska in 1926 and
+               contributed to the Prairie Schooner literary magazine. In 1932, he transferred to the
+               University of California, Berkeley, where he received a BA in anthropology in 1935.
+               In 1950, he received a PhD in anthropology from Columbia University in 1950. In 1958,
+               Holder returned to the University of Nebraska and joined the anthropology department.
+               He retired in 1973.</p></note>
+
+         <note type="person" xml:id="duaneSpiers"><label>Spiers, Dr. Duane Edwin (1930&#8211;2005).
+               Associate professor, psychiatry department, Creighton University.</label>
+            <p>Born in Denver, CO, Spiers was an associate professor of psychiatry at Creighton
+               University in Omaha, NE, from 1967 to 1977.</p></note>
+
+         <note type="person" xml:id="louisCrompton"><label>Crompton, Dr. Louis (1925&#8211;2009)
+               ("Lou"). Professor, English department, University of Nebraska&#8211;Lincoln.</label>
+            <p/></note>
+
+
+         <note type="person" xml:id="jeromeMcKinney"><p><label/></p></note>
+
+
+         <note type="person" xml:id="harryCannon"><p><label/></p></note>
+
+
+         <note type="person" xml:id="josephJulian"><p><label/></p></note>
+
+
+         <note type="person" xml:id="richardHerman"><label>Herman, Richard Lyonel (1920&#8211;1915)
+               ("Dick"). Regent, University of Nebraska, 1967&#8211;1971.</label>
+            <p/></note>
+
+
+         <note type="person" xml:id="josephCreason"><label>Creason, Joseph Dean (1943&#8211;1991)
+               ("JD") (Joe). Gay activist; university student.</label>
+            <p> </p></note>
+         <lb/>
+         <lb/>
+
+
+         <head>Place Annotations</head>
+
+
+
+
+
+
+
+         <p/>
+      </body>
+   </text>
+</TEI>
