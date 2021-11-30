@@ -10,6 +10,15 @@ text-indent:35px;
 
 }
 
+p.uninterrupted {
+font-family: garamond;
+font-size: 16px;
+color: black;
+margin-right:150px;
+margin-left:150px;
+
+}
+
 div.image {
 text-align: left;
 margin-right:150px;
