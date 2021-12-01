@@ -6,12 +6,14 @@ img.center {
 }
 
 div.banner {
-  height: 200px;
+  height: 250px;
+  display: block;
 }
 
 
 img.banner {
   height : 100%;
+  display: block;
 }
 
 hr {
