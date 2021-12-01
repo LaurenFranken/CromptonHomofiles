@@ -6,12 +6,11 @@ img.center {
 }
 
 div.banner {
-  width: 80%;
   height: 20vh;
 }
 
 
-div.banner img {
+div.banner {
   width : 100%;
 }
 
