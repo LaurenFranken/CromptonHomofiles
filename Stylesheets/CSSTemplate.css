@@ -120,22 +120,22 @@ padding-bottom:50px;
 }
 
 div.editorial{
+  text-align: left;
   margin-right:150px;
-margin-left:150px;
-  
+margin-left:150px;  
 }
   
 
 span.label
 {
+  text-align: left;
 font-family: Arial;
 font-weight: bold;
 color: black;
 margin-right:150px;
 margin-left:150px;
-
-
 }
+
 
 a:link
 {
