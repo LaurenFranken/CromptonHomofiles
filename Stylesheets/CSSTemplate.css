@@ -139,6 +139,7 @@ p.editorial{
   margin-right:30px;
   margin-left:30px;
   text-align: justify;
+    text-justify: inter-word;
   text-indent:0px;
 }
 
