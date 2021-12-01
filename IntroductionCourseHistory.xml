@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Louis Crompton to Joseph Svoboda, October 27, 1992</title>
+                <author>Louis Crompton</author>
+                <editor role="co-editor">Lauren Franken</editor>
+                <editor role="co-editor">Jamison Wyatt</editor>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Louis Crompton: The Selected Homofiles</authority>
+                <idno><!-- BLANK FOR NOW --></idno>
+                <date>2021</date>
+                <availability>
+                    <p>Louis Crompton: The Selected Homofiles is freely distributed by the University of
+                        Nebraska-Lincoln Archives &amp; Special Collections and licensed under a Creative
+                        Commons Attribution-Noncommercial-Share Alike 3.0 United States License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>Louis Crompton</author>
+                    <persName type="addressee">Joseph Svoboda</persName>
+                    <date when="1992-10-27">October 27, 1992</date>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>University of Nebraska-Lincoln Archives &amp; Special
+                            Collections</repository>
+                        <collection> Louis Crompton, Papers</collection>
+                        <idno type="collection">RG 12-10-55</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Document is one leaf, typewritten on recto only.</p>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <hyphenation eol="some">
+                    <p>End-of-line hyphenation silently removed where appropriate.</p>
+                </hyphenation>
+                <correction>
+                    <p>Minor typographical redundancies and errors have been silently corrected for the
+                        sake of clarity.</p>
+                </correction>
+            </editorialDecl>
+            <projectDesc>
+                <p><hi rend="italics">Louis Crompton: The Selected Homofiles</hi> presents a series of
+                    Louis Crompton's papers, which frame the events that occured at the University of
+                    Nebraska-Lincoln in 1970 surrounding his organization of the course "Proseminar in
+                    Homophile Studies," one of the earliest courses on queer sexuality taught in the
+                    United States. Furthermore, the political fallout which occurred after Crompton
+                    developed the course bears striking similarities to 21st century politicians'
+                    attempts to control academic curricula. </p>
+            </projectDesc>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="CromptonToSvoboda1992.jpg"/>
+            <opener><dateline><date when="1992-10-27">October 27, 1992</date></dateline>
+                <address><addrLine>303 Andrews 0333</addrLine></address>
+             <address><addrLine>Joseph Svoboda</addrLine><addrLine>University Archives</addrLine><addrLine>308 Love Library 0410</addrLine></address>
+                <salute>Dear <persName>Joe</persName>,</salute></opener>
+            <p>I repeatedly get requests for information about the course on homosexuality that caused controversy back in 1970.</p>
+            <p>I thought it might be useful for students and future historians of the university if I wrote out a personal statement and included some press references to be added to your present file on the subject.</p>
+            <closer><salute>Sincerely,</salute>
+                <signed>Louis Crompton</signed>
+            </closer>
+        </body>
+    </text>
+</TEI>
