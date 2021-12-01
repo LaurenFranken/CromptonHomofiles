@@ -8,12 +8,13 @@ img.center {
 div.banner {
   height: 250px;
   display: block;
+  margin-right:150px;
 }
 
 
 img.banner {
   height : 100%;
-  display: block;
+  display: block;margin-right:150px;
 }
 
 hr {
