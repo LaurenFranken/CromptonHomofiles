@@ -82,9 +82,13 @@ margin-left:150px;
   
 }
 
+@font-face {
+  font-family: "Cooper Black";
+  src: url("/fonts/cooper-black.otf");
+}
 
 h1 {
-font-family: Cooper-Black;
+font-family: "Cooper Black", serif;
 font-size: 25px;
 margin-right:100px;
 margin-left:100px;
