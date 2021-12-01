@@ -83,6 +83,16 @@ margin-left:150px;
 }
 
 
+h1 {
+font-family: Cooper Black;
+font-size: 25px;
+margin-right:100px;
+margin-left:100px;
+color: black;
+font-weight: bold;
+text-align:center;
+}
+
 h2 {
 font-family: Arial;
 font-size: 20px;
