@@ -1,11 +1,5 @@
-img.banner {
-        max-width: 100%;
-        object-fit: contain;
-{
-
-div.banner {
-    background-image:url(https://laurenfranken.github.io/CromptonHomofiles/images/HomoFiles.jpg);
-  }
+.w3-content
+{position:relative;margin-top:0em;}
 
 hr {
   text-align: left;
