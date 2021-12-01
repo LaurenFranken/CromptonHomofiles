@@ -136,8 +136,9 @@ color: black;
 
 p.editorial{
   text-align: left;
-  margin-right:0px;
+  margin-right:30px;
   margin-left:30px;
+  text-align: justify;
   text-indent:0px;
 }
 
