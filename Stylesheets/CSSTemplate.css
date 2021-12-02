@@ -136,7 +136,7 @@ font-family: Courier New;
 font-size: 25px;
 margin-right:100px;
 margin-left:100px;
-color: red;
+color: #f393c3;
 font-weight: bold;
 text-align:left;
 }
@@ -180,7 +180,7 @@ padding-bottom:50px;
 div.editorial{
 text-align: left;
 margin-right:150px;
-margin-left:150px;  
+margin-left:150px; 
 }
   
 
@@ -190,6 +190,8 @@ text-align: left;
 font-family: Courier New;
 font-weight: bold;
 color: black;
+margin-right:150px;
+margin-left:150px;
 }
 
 p.editorial{
