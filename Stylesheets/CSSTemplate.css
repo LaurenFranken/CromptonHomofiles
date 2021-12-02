@@ -1,12 +1,11 @@
-img.center {
+img.banner {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 25%;
+  width: 50%;
 }
 
 div.banner {
-  height: 250px;
   display: block;
   text-align:center;
 }
