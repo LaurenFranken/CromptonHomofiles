@@ -3,8 +3,9 @@ img.banner {
 }
 
 img.center {
-  display: block;
-  text-align:center;
+   display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 div.banner {
