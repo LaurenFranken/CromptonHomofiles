@@ -1,14 +1,19 @@
-div.allButFooter {
-    min-height: calc(100vh - 40px);
+div.page-container {
+  position: relative;
+  min-height: 100vh;
 }
 
+div.content-wrap {
+  padding-bottom: 2.5rem;
+}
 
 footer {
-   position:absolute;
-   bottom:0;
-   width:100%;
-   height:60px;
-   background:#f393c3;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 2.5rem;
+  background:#f393c3;
+}
 
 img.center {
   display: block;
