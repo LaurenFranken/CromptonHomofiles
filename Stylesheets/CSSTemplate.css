@@ -1,3 +1,8 @@
+div.allButFooter {
+    min-height: calc(100vh - 40px);
+}
+
+
 footer {
    position:absolute;
    bottom:0;
