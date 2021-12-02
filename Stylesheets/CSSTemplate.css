@@ -29,6 +29,13 @@ hr {
   border: 1px solid #f393c3;
 }
 
+hr.footnote {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border: 1px solid #d9d9d9;
+}
+
 blockquote {
   display: block;
   margin-left: 300px;
