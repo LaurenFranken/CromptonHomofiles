@@ -4,14 +4,14 @@ div.page-container {
 }
 
 div.content-wrap {
-  padding-bottom: 2.5rem;
+  padding-bottom: 10rem;
 }
 
 footer {
   position: absolute;
   bottom: 0;
   width: 100%;
-  height: 2.5rem;
+  height: 10rem;
   background:#f393c3;
 }
 
