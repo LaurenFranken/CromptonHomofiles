@@ -5,6 +5,8 @@ div.navbar {
   top: 0;
   width: 100%;
   font-family: Courier New;
+  width:auto;
+
 }
 
 div.navbar.a {
@@ -19,7 +21,7 @@ div.navbar.a {
 
 div.navbar.a:hover {
   background: #ddd;
-  color: black;
+  color: white;
 }
 
 div.navbar.style
