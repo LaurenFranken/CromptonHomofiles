@@ -4,10 +4,12 @@ ul {
   padding: 0;
   overflow: hidden;
   background-color: #543c04;
+  font-family: Courier New;
 }
 
 li {
   float: left;
+  font-family: Courier New;
 }
 
 li a {
@@ -21,10 +23,12 @@ li a {
 
 li a:hover:not(.active) {
   background-color: #111;
+  font-family: Courier New;
 }
 
 .active {
   background-color: #f393c3;
+  font-family: Courier New;
 }
 
 
