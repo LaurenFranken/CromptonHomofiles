@@ -6,8 +6,7 @@ div.navbar {
   width: 100%;
 }
 
-/* Links inside the navbar */
-.navbar a {
+div.navbar.a {
   float: left;
   display: block;
   color: #f2f2f2;
@@ -16,15 +15,9 @@ div.navbar {
   text-decoration: none;
 }
 
-/* Change background on mouse-over */
-.navbar a:hover {
+div.navbar.a:hover {
   background: #ddd;
   color: black;
-}
-
-/* Main content */
-.main {
-  margin-top: 30px; /* Add a top margin to avoid content overlay */
 }
 
 
