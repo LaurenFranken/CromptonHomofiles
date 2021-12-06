@@ -204,6 +204,16 @@ font-weight: bold;
 text-align:center;
 }
 
+h3 {
+font-family: Courier New;
+font-size: 27px;
+margin-right:150px;
+margin-left:150px;
+color: #f393c3;
+font-weight: bold;
+text-align:center;
+}
+
 
 p.note /* name of your class here */ {
 color: rgb(255,36,0);  
