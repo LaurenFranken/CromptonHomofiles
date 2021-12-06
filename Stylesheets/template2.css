@@ -23,3 +23,36 @@ div.navbar.a:hover {
 div.main{
   margin-top: 200px;
 }
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #543c04;
+  font-family: Courier New;
+}
+
+li {
+  float: left;
+  font-family: Courier New;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-family: Courier New;
+}
+
+li a:hover:not(.active) {
+  background-color: white;
+  font-family: Courier New;
+}
+
+.active {
+  background-color: #f393c3;
+  font-family: Courier New;
+}
