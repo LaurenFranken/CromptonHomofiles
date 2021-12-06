@@ -1,13 +1,13 @@
 div.navbar {
   overflow: hidden;
   background-color: #fff;
-  position: auto;
+  position: fixed;
   top: 0;
   width: 100%;
   font-family: Courier New;
   height: 200px;
-  margin-left: 0;
-  margin-right: 0;
+  margin-left: -20px;
+  margin-right: -20px;
 }
 div.navbar.a {
   float: left;
