@@ -2,7 +2,7 @@
 div.navbar-fixed-top {
   overflow: hidden;
   background-color: #fff;
-  position: fixed;
+  position: fixed, center;
   top: 0;
   width: 100%;
   font-family: Courier New;
