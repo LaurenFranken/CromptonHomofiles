@@ -1,4 +1,5 @@
-div.navbar {
+
+div.navbar-fixed-top {
   overflow: hidden;
   background-color: #fff;
   position: fixed;
@@ -6,9 +7,14 @@ div.navbar {
   width: 100%;
   font-family: Courier New;
   height: 200px;
-  margin-left: -20px;
-  margin-right: -20px;
+  margin-left: -0px;
+  margin-right: -0px;
 }
+div.container {
+  margin-left: -0px;
+  margin-right: -0px;
+}
+  
 div.navbar.a {
   float: left;
   display: block;
