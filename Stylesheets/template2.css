@@ -6,6 +6,8 @@ div.navbar {
   width: 100%;
   font-family: Courier New;
   height: 200px;
+  margin-left: 0;
+  margin-right: 0;
 }
 div.navbar.a {
   float: left;
