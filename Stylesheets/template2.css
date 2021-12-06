@@ -215,15 +215,7 @@ div.notes /* name of your class here */ {
   margin-bottom: 100px;
   margin-right: 150px;
   margin-left: 80px;   
-}
-
-
-body /* if you want the background for the whole page, you should use the "body" selector */ {
-background-color: white;
-padding-top:50px;
-padding-right:40px;
-padding-left:40px;
-padding-bottom:50px; 
+} 
     
 }
 
