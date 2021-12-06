@@ -8,12 +8,12 @@ div.navbar-fixed-top {
   width: 100%;
   font-family: Courier New;
   height: 195px;
-  margin-left: -0px;
-  margin-right: -0px;
+  margin-left: 2px;
+  margin-right: 2px;
 }
 div.container {
-  margin-left: -0px;
-  margin-right: -0px;
+  margin-left: 2px;
+  margin-right: 2px;
 }
   
 div.navbar.a {
