@@ -222,12 +222,12 @@ div.notes /* name of your class here */ {
 
 div.editorial{
 text-align: left;
+font-family: Courier New;
 margin-right:150px;
 margin-left:150px; 
 }
   
-span.label
-{
+span.label{
 text-align: left;
 font-family: Courier New;
 font-weight: bold;
