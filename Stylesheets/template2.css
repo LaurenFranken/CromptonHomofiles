@@ -97,6 +97,16 @@ blockquote {
   text-indent:35px;
 }
 
+blockquote.no-indent {
+  display: block;
+  margin-left: 300px;
+  margin-right: 300px;
+  font-family: Courier New;
+  color: black;
+  font-size: 16px;
+  text-indent:0px;
+}
+
 p.introduction {
   text-indent:0px;
   text-align:center;
