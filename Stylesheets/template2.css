@@ -1,3 +1,9 @@
+body {
+  margin-left: 0px;
+  margin-right: 0px;
+  width: 100%;
+  display: block;
+}
 
 div.navbar-fixed-top {
   overflow: hidden;
