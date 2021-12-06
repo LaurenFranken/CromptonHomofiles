@@ -1,6 +1,9 @@
 :target {
    background-color: #ffecb4;
-   padding-top: 200px;
+}
+
+html {
+  scroll-padding-top: 200px;
 }
 
 
