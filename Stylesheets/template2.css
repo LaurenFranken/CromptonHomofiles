@@ -21,7 +21,7 @@ div.navbar-fixed-top {
   display: block;
   top: 0;
   width: 100%;
-  font-family: Arial;
+  font-family: Garamond;
   height: 190px;
   margin-left: 2px;
   margin-right: 2px;
@@ -38,7 +38,7 @@ div.navbar.a {
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
-  font-family: Arial;
+  font-family: Garamond;
 }
 div.navbar.a:hover {
   background: #ddd;
@@ -54,12 +54,12 @@ ul {
   padding: 0;
   overflow: hidden;
   background-color: #543c04;
-  font-family: Arial;
+  font-family: Garamond;
 }
 
 li {
   float: left;
-  font-family: Arial;
+  font-family: Garamond;
   font-size: 16px;
 }
 
@@ -69,17 +69,17 @@ li a {
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
-  font-family: Arial;
+  font-family: Garamond;
 }
 
 li a:hover:not(.active) {
   background-color: white;
-  font-family: Arial;
+  font-family: Garamond;
 }
 
 .active {
   background-color: #f393c3;
-  font-family: Arial;
+  font-family: Garamond;
 }
 
 img.center {
@@ -107,7 +107,7 @@ blockquote {
   display: block;
   margin-left: 300px;
   margin-right: 300px;
-  font-family: Arial;
+  font-family: Garamond;
   color: black;
   font-size: 16px;
   text-indent:35px;
@@ -117,7 +117,7 @@ blockquote.no-indent {
   display: block;
   margin-left: 300px;
   margin-right: 300px;
-  font-family: Arial;
+  font-family: Garamond;
   color: black;
   font-size: 16px;
   text-indent:0px;
@@ -126,7 +126,7 @@ blockquote.no-indent {
 p.introduction {
   text-indent:0px;
   text-align:center;
-  font-family: Arial;
+  font-family: Garamond;
   font-size: 16px;
   color: black;
 }
@@ -134,7 +134,7 @@ p.introduction {
 p.caption {
   text-indent:0px;
   text-align:center;
-  font-family: Arial;
+  font-family: Garamond;
   font-size: 14px;
   color: #d6839b;
 }
@@ -145,14 +145,14 @@ p.footer {
   text-justify: inter-word;
   text-indent:0px;
   text-align:center;
-  font-family: Arial;
+  font-family: Garamond;
   font-size: 14px;
   color: #543c04;
 }
 
 p {
 text-align: left;
-font-family: Arial;
+font-family: Garamond;
 font-size: 16px;
 color: black;
 margin-right:150px;
@@ -162,7 +162,7 @@ text-indent:35px;
 
 p.right {
 text-align: right;
-font-family: Arial;
+font-family: Garamond;
 font-size: 16px;
 color: black;
 text-decoration: underline;
@@ -174,7 +174,7 @@ text-indent:35px;
 
 p.closer {
 text-align: left;
-font-family: Arial;
+font-family: Garamond;
 font-size: 16px;
 color: black;
 margin-right:150px;
@@ -190,7 +190,7 @@ text-indent:500px;
 }
 
 p.uninterrupted {
-font-family: Arial;
+font-family: Garamond;
 font-size: 16px;
 color: black;
 margin-right:150px;
@@ -209,7 +209,7 @@ margin-left:150px;
 
 div.statement {
 text-align: left;
-font-family: Arial;
+font-family: Garamond;
 font-size: 16px;
 color: black;
 text-decoration: underline;
@@ -220,7 +220,7 @@ margin-left:150px;
 
 
 h1 {
-font-family: Arial;
+font-family: Garamond;
 font-size: 25px;
 margin-right:150px;
 margin-left:150px;
@@ -229,7 +229,7 @@ text-align:left;
 }
 
 h2 {
-font-family: Arial;
+font-family: Garamond;
 font-size: 20px;
 margin-right:100px;
 margin-left:100px;
@@ -238,7 +238,7 @@ text-align:center;
 }
 
 h3 {
-font-family: Arial;
+font-family: Garamond;
 font-size: 27px;
 margin-right:150px;
 margin-left:150px;
@@ -264,21 +264,21 @@ div.notes /* name of your class here */ {
 
 div.editorial{
 text-align: left;
-font-family: Arial;
+font-family: Garamond;
 margin-right:150px;
 margin-left:150px; 
 }
   
 span.label{
 text-align: left;
-font-family: Arial;
+font-family: Garamond;
 font-weight: bold;
 color: black;
 }
 
 p.editorial{
   text-align: left;
-  font-family: Arial;
+  font-family: Garamond;
   margin-right:30px;
   margin-left:30px;
   text-indent:0px;
