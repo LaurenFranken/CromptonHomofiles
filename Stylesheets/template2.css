@@ -3,13 +3,13 @@
 }
 
 html {
-  scroll-padding-top: 200px;
+  scroll-padding-top: 12.5rem;
 }
 
 
 body {
-  margin-left: 0px;
-  margin-right: 0px;
+  margin-left: 0rem;
+  margin-right: 0rem;
   width: 100%;
   display: block;
 }
@@ -22,13 +22,13 @@ div.navbar-fixed-top {
   top: 0;
   width: 100%;
   font-family: Trebuchet MS;
-  height: 190px;
-  margin-left: 2px;
-  margin-right: 2px;
+  height: 11.875rem;
+  margin-left: 0.125rem;
+  margin-right: 0.125rem;
 }
 div.container {
-  margin-left: 2px;
-  margin-right: 2px;
+  margin-left: 0.125rem;
+  margin-right: 0.125rem;
 }
   
 div.navbar.a {
@@ -36,7 +36,7 @@ div.navbar.a {
   display: block;
   color: #fff;
   text-align: center;
-  padding: 14px 16px;
+  padding: 0.875rem 1rem;
   text-decoration: none;
   font-family: Trebuchet MS;
 }
@@ -45,7 +45,7 @@ div.navbar.a:hover {
   color: white;
 }
 div.main{
-  margin-top: 200px;
+  margin-top: 12.5rem;
 }
 
 ul {
@@ -60,14 +60,14 @@ ul {
 li {
   float: left;
   font-family: Trebuchet MS;
-  font-size: 16px;
+  font-size: 1.063rem;
 }
 
 li a {
   display: block;
   color: white;
   text-align: center;
-  padding: 14px 16px;
+  padding: 0.875rem 1.063rem;
   text-decoration: none;
   font-family: Trebuchet MS;
 }
@@ -93,49 +93,59 @@ hr {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  border: 1px solid #f393c3;
+  border: 0.063rem solid #f393c3;
 }
 
 hr.footnote {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  border: 1px solid #d9d9d9;
+  border: 0.063rem solid #d9d9d9;
 }
 
 blockquote {
   display: block;
-  margin-left: 300px;
-  margin-right: 300px;
+  margin-left: 18.75rem;
+  margin-right: 18.75rem;
   font-family: Trebuchet MS;
   color: black;
-  font-size: 16px;
-  text-indent:35px;
+  font-size: 1rem;
+  text-indent:2.188rem;
 }
 
 blockquote.no-indent {
-  display: block;
-  margin-left: 300px;
-  margin-right: 300px;
+   display: block;
+  margin-left: 18.75rem;
+  margin-right: 18.75rem;
   font-family: Trebuchet MS;
   color: black;
-  font-size: 16px;
-  text-indent:0px;
+  font-size: 1rem;
+  text-indent:0rem;
 }
 
 p.introduction {
-  text-indent:0px;
+  text-indent:0rem;
   text-align:center;
   font-family: Trebuchet MS;
-  font-size: 16px;
+  font-size: 1rem;
   color: black;
 }
 
-p.caption {
-  text-indent:0px;
+p.home {
+  text-indent:0rem;
   text-align:center;
   font-family: Trebuchet MS;
-  font-size: 14px;
+  font-size: 1rem;
+  color: black;
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+p.caption {
+  text-indent:0rem;
+  text-align:center;
+  font-family: Trebuchet MS;
+  font-size: 1rem;
   color: #d6839b;
 }
 
@@ -143,42 +153,42 @@ p.caption {
 p.footer {
   text-align: justify;
   text-justify: inter-word;
-  text-indent:0px;
+  text-indent:0rem;
   text-align:center;
   font-family: Trebuchet MS;
-  font-size: 14px;
+  font-size: 0.875rem;
   color: #543c04;
 }
 
 p {
 text-align: left;
 font-family: Trebuchet MS;
-font-size: 16px;
+font-size: 1rem;
 color: black;
-margin-right:150px;
-margin-left:150px;
-text-indent:35px;
+margin-right: 10.625rem;
+margin-left: 10.625rem;
+text-indent: 2.188rem;
 }
 
 p.right {
 text-align: right;
 font-family: Trebuchet MS;
-font-size: 16px;
+font-size: 1rem;
 color: black;
 text-decoration: underline;
-margin-right:150px;
-margin-left:150px;
-text-indent:35px;
+margin-right: 10.625rem;
+margin-left: 10.625rem;
+text-indent: 2.188rem;
 
 }
 
 p.closer {
 text-align: left;
 font-family: Trebuchet MS;
-font-size: 16px;
+font-size: 1rem;
 color: black;
-margin-right:150px;
-margin-left:150px;
+margin-right: 10.625rem;
+margin-left: 10.625rem;
 text-indent:500px;
 
 }
@@ -186,23 +196,23 @@ text-indent:500px;
 div.img {
   margin-right:150px;
 margin-left:150px;
-text-indent:500px;
+text-indent:31.25rem;
 }
 
 p.uninterrupted {
 font-family: Trebuchet MS;
-font-size: 16px;
+font-size: 1rem;
 color: black;
-margin-right:150px;
-margin-left:150px;
-text-indent:0px;
+margin-right: 10.625rem;
+margin-left: 10.625rem;
+text-indent:0rem;
 
 }
 
 div.image {
 text-align: left;
-margin-right:150px;
-margin-left:150px; 
+margin-right: 10.625rem;
+margin-left: 10.625rem;
   
 }
   
@@ -210,11 +220,11 @@ margin-left:150px;
 div.statement {
 text-align: left;
 font-family: Trebuchet MS;
-font-size: 16px;
+font-size: 1rem;
 color: black;
 text-decoration: underline;
-margin-right:150px;
-margin-left:150px; 
+margin-right: 10.625rem;
+margin-left: 10.625rem;
   
 }
 
